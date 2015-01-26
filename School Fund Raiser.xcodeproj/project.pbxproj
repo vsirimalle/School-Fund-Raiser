@@ -13,6 +13,11 @@
 		9651BF2C1A71DEAD0056B33E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF2B1A71DEAD0056B33E /* Images.xcassets */; };
 		9651BF2F1A71DEAD0056B33E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF2D1A71DEAD0056B33E /* LaunchScreen.xib */; };
 		9651BF3B1A71DEAE0056B33E /* School_Fund_RaiserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9651BF3A1A71DEAE0056B33E /* School_Fund_RaiserTests.swift */; };
+		9651BF451A71DEC30056B33E /* FundRaising-wireframe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF441A71DEC30056B33E /* FundRaising-wireframe.jpg */; };
+		9651BF471A71E05B0056B33E /* login.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF461A71E05B0056B33E /* login.jpg */; };
+		9651BF4B1A76CF530056B33E /* contribute_screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF481A76CF530056B33E /* contribute_screen.jpg */; };
+		9651BF4C1A76CF530056B33E /* dashboard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF491A76CF530056B33E /* dashboard.jpg */; };
+		9651BF4D1A76CF530056B33E /* login.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9651BF4A1A76CF530056B33E /* login.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +41,11 @@
 		9651BF341A71DEAE0056B33E /* School Fund RaiserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "School Fund RaiserTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9651BF391A71DEAE0056B33E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9651BF3A1A71DEAE0056B33E /* School_Fund_RaiserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = School_Fund_RaiserTests.swift; sourceTree = "<group>"; };
+		9651BF441A71DEC30056B33E /* FundRaising-wireframe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "FundRaising-wireframe.jpg"; path = "../FundRaising-wireframe.jpg"; sourceTree = "<group>"; };
+		9651BF461A71E05B0056B33E /* login.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = login.jpg; path = "School Fund Raiser/assets/login.jpg"; sourceTree = "<group>"; };
+		9651BF481A76CF530056B33E /* contribute_screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = contribute_screen.jpg; path = "School Fund Raiser/assets/contribute_screen.jpg"; sourceTree = "<group>"; };
+		9651BF491A76CF530056B33E /* dashboard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dashboard.jpg; path = "School Fund Raiser/assets/dashboard.jpg"; sourceTree = "<group>"; };
+		9651BF4A1A76CF530056B33E /* login.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = login.jpg; path = "School Fund Raiser/assets/login.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +69,11 @@
 		9651BF161A71DEAD0056B33E = {
 			isa = PBXGroup;
 			children = (
+				9651BF441A71DEC30056B33E /* FundRaising-wireframe.jpg */,
+				9651BF481A76CF530056B33E /* contribute_screen.jpg */,
+				9651BF491A76CF530056B33E /* dashboard.jpg */,
+				9651BF4A1A76CF530056B33E /* login.jpg */,
+				9651BF461A71E05B0056B33E /* login.jpg */,
 				9651BF211A71DEAD0056B33E /* School Fund Raiser */,
 				9651BF371A71DEAE0056B33E /* School Fund RaiserTests */,
 				9651BF201A71DEAD0056B33E /* Products */,
@@ -192,7 +207,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9651BF4C1A76CF530056B33E /* dashboard.jpg in Resources */,
+				9651BF4D1A76CF530056B33E /* login.jpg in Resources */,
+				9651BF4B1A76CF530056B33E /* contribute_screen.jpg in Resources */,
 				9651BF2A1A71DEAD0056B33E /* Main.storyboard in Resources */,
+				9651BF471A71E05B0056B33E /* login.jpg in Resources */,
+				9651BF451A71DEC30056B33E /* FundRaising-wireframe.jpg in Resources */,
 				9651BF2F1A71DEAD0056B33E /* LaunchScreen.xib in Resources */,
 				9651BF2C1A71DEAD0056B33E /* Images.xcassets in Resources */,
 			);
